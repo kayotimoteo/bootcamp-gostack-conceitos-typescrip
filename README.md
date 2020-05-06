@@ -1,0 +1,2 @@
+- yarn tsc
+- node dist/index.js
